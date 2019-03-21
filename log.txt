@@ -1,0 +1,11 @@
+commit 3867e844bba41ea7204fab86458fbd36777ddfdf (HEAD -> logging, origin/master, master)
+Author: unknown <Sara.Lekoska@students.finki.ukim.mk>
+Date:   Thu Mar 21 10:51:47 2019 +0100
+
+    modify lab1.txt
+
+commit 3169a7a084622d29c02f85a42dc768927f11bdc4
+Author: unknown <Sara.Lekoska@students.finki.ukim.mk>
+Date:   Thu Mar 21 10:51:18 2019 +0100
+
+    Initial commit
